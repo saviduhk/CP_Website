@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://chaoticpotatoes.com/blog/post-1/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chaoticpotatoes.com/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chaoticpotatoes.com/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chaoticpotatoes.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chaoticpotatoes.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chaoticpotatoes.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chaoticpotatoes.com/tags/</loc>
+  </url>
+  
+</urlset>
